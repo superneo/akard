@@ -10,3 +10,7 @@ a quantitative investment project for freedom and independence
 * [FirmAI/Asset Management(repo)](https://github.com/firmai/machine-learning-asset-management)
 * [FirmAI/Machine Learning in Asset Management(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)
 
+# ML modeling references/materials for investment
+* Efficient fx management with deep learning
+  - [slideshare PT material](https://www.slideshare.net/NaverEngineering/efficient-fx-management-with-deep-learning)
+  - [youtube PT recording](https://www.youtube.com/watch?v=_8hdnuQZU9k)
