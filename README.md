@@ -14,3 +14,6 @@ a quantitative investment project for freedom and independence
 * Efficient fx management with deep learning
   - [slideshare PT material](https://www.slideshare.net/NaverEngineering/efficient-fx-management-with-deep-learning)
   - [youtube PT recording](https://www.youtube.com/watch?v=_8hdnuQZU9k)
+
+# Raw data references/sources
+* [Data Analysis, Retrieval and Transfer System](http://dart.fss.or.kr/)
