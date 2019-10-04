@@ -17,4 +17,5 @@ a quantitative investment project for freedom and independence
 
 # Raw data references/sources
 * [Data Analysis, Retrieval and Transfer System](http://dart.fss.or.kr/)
+* [[FinanceData.KR](http://financedata.KR)](https://www.notion.so/6da3ac1cb8864178a4a61d9bc319cb53)
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/)
