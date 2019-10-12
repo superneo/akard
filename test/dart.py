@@ -4,6 +4,22 @@ import argparse
 import requests
 
 
+def company_search(params):
+    '''
+    http://dart.fss.or.kr/api/search.xml?auth=xxx     xml 응답
+    http://dart.fss.or.kr/api/search.json?auth=xxx    json 응답
+    '''
+    pass
+
+
+def company_condition(params):
+    '''
+    http://dart.fss.or.kr/api/company.xml?auth=xxx&crp_cd=xxx    xml 응답
+    http://dart.fss.or.kr/api/company.json?auth=xxx&crp_cd=xxx   json 응답
+    '''
+    pass
+
+
 def main(api_key):
     URL = 'http://dart.fss.or.kr/api/search.json'
     params = {'auth': api_key, 'page_set': 100}
