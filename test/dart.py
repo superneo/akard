@@ -9,7 +9,11 @@ def company_search(params):
     http://dart.fss.or.kr/api/search.xml?auth=xxx     xml 응답
     http://dart.fss.or.kr/api/search.json?auth=xxx    json 응답
     '''
-    pass
+    URL = 'http://dart.fss.or.kr/api/search.json'
+    res = requests.get(URL, params=params)
+
+    print('status code: ' + str(res.status_code))
+    print('json: ' + str(res.json()))
 
 
 def company_condition(params):
@@ -21,12 +25,8 @@ def company_condition(params):
 
 
 def main(api_key):
-    URL = 'http://dart.fss.or.kr/api/search.json'
     params = {'auth': api_key, 'page_set': 100}
-    res = requests.get(URL, params=params)
-
-    print('status code: ' + str(res.status_code))
-    print('json: ' + str(res.json()))
+    company_search(params)
 
 
 if __name__ == '__main__':
