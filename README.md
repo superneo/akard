@@ -24,3 +24,6 @@ a quantitative investment project for freedom and independence
 # APIs
 * [DART](https://dart.fss.or.kr/dsap001/intro.do)
 * [KRX](https://kasp.krx.co.kr/contents/02/02010000/ASP02010000.jsp)
+
+# Widgets
+* [Investing.com](https://www.investing.com/webmaster-tools/)
