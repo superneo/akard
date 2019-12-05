@@ -13,6 +13,9 @@ a quantitative investment project for freedom and independence
 ## reads
 * [Lessons learned building an ML trading system that turned $5k into $200k](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/)
 
+# AI/ML/DL/DS learning materials for investment
+* [AQR Learning Center](https://www.aqr.com/Learning-Center)
+
 # AI/ML/DL/DS papers/repos in investment
 * [FirmAI/Asset Management(repo)](https://github.com/firmai/machine-learning-asset-management)
 * [FirmAI/Machine Learning in Asset Management(paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420952)
